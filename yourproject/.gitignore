@@ -1,0 +1,21 @@
+# Ignore OS/user files
+*.log
+*.tmp
+*.swp
+*.bak
+*.DS_Store
+*.ini
+*.dat
+*.regtrans-ms
+*.blf
+
+# Ignore common Windows folders
+/Downloads/
+/Videos/
+/Music/
+/AppData/
+/OneDrive*/
+/Favorites/
+/Saved Games/
+/Contacts/
+/NTUSER*
